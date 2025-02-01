@@ -1,3 +1,5 @@
+using System;
+using System.IO;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
@@ -9,6 +11,8 @@ public class BrowserConfig
     {
         var options = new ChromeOptions();
         options.AddArgument("--disable-blink-features=AutomationControlled");
+        var userDataDir = Path.Combine(Path.GetTempPath(), "ChromeUserData", Guid.NewGuid().ToString());
+        options.AddArguments($"--user-data-dir={userDataDir}");
         return new ChromeDriver(options);
     }
 }
