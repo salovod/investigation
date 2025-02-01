@@ -28,7 +28,7 @@ namespace SeleniumGoogleTest.com.tests
                 
             Logger.Step("3... Check that first result contains 'Selenium'");
                 var firstElementInTheResult = GoogleHomePage.ListOfResults.First().Text;
-                Assert.That(firstElementInTheResult.Contains("Selenium"),
+                Assert.That(firstElementInTheResult.Contains("Selenium"), Is.True,
                     """
                     First search results doesn't contain 'Selenium'.
                     Actual results is {firstElementInTheResult}

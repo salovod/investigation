@@ -1,3 +1,4 @@
+using System;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using SeleniumGoogleTest.com.configuration.browser;
