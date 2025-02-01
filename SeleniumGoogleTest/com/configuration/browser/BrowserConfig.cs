@@ -8,7 +8,7 @@ public class BrowserConfig
     public IWebDriver CreateDriver()
     {
         var options = new ChromeOptions();
-        options.AddArgument("--disable-blink-features=AutomationControlled"); // Hide automation control
+        options.AddArgument("--disable-blink-features=AutomationControlled");
         return new ChromeDriver(options);
     }
 }
