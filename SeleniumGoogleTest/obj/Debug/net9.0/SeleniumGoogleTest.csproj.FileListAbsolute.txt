@@ -105,3 +105,4 @@
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/bin/Debug/net9.0/Serilog.dll
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/bin/Debug/net9.0/Serilog.Sinks.Console.dll
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/bin/Debug/net9.0/Serilog.Sinks.File.dll
+/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.sourcelink.json

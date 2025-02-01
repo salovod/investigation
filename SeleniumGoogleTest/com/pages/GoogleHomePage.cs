@@ -4,8 +4,7 @@ namespace SeleniumGoogleTest.com.pages;
 
 public class GoogleHomePage(IWebDriver driver)
 {
-    // public IWebElement SearchInputField => driver.FindElement(By.XPath("//*[@name='q']"));
-    public IWebElement SearchInputField => driver.FindElement(By.Name("q"));
+    public IWebElement SearchInputField => driver.FindElement(By.XPath("//*[@name='q']"));
     
     public IWebElement SearchResult => driver.FindElement(By.XPath("//*[@id='rso']"));
     
