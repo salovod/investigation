@@ -1,3 +1,9 @@
+/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.csproj.AssemblyReference.cache
+/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.AssemblyInfoInputs.cache
+/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.AssemblyInfo.cs
+/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.csproj.CoreCompileInputs.cache
+/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.sourcelink.json
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/bin/Debug/net9.0/selenium-manager/linux/selenium-manager
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/bin/Debug/net9.0/selenium-manager/macos/selenium-manager
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/bin/Debug/net9.0/selenium-manager/windows/selenium-manager.exe
@@ -94,12 +100,6 @@
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.csproj.AssemblyReference.cache
-/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.GeneratedMSBuildEditorConfig.editorconfig
-/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.AssemblyInfoInputs.cache
-/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.AssemblyInfo.cs
-/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.csproj.CoreCompileInputs.cache
-/Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.sourcelink.json
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/Selenium.ABB59C09.Up2Date
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/SeleniumGoogleTest.dll
 /Users/work/IdeaProjects/sharp/investigation/SeleniumGoogleTest/SeleniumGoogleTest/obj/Debug/net9.0/refint/SeleniumGoogleTest.dll

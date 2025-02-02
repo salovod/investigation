@@ -1,5 +1,6 @@
 using System;
 using NUnit.Framework;
+using NUnit.Framework.Interfaces;
 using OpenQA.Selenium;
 using SeleniumGoogleTest.com.configuration.browser;
 using SeleniumGoogleTest.com.pages;
@@ -25,6 +26,10 @@ public class BeforeWebConfiguration
     [TearDown]
     public void TearDown()
     {
+        if (TestContext.CurrentContext.Result.Outcome.Status == TestStatus.Failed)
+        {
+            MakeAScreenshot.TakeScreenshot(Driver, TestContext.CurrentContext.Test.Name);
+        }
         Driver.Quit();
     }
 }
