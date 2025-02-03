@@ -1,4 +1,3 @@
-using System.Linq;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using SeleniumGoogleTest.com.configuration.logger;
@@ -23,7 +22,7 @@ namespace SeleniumGoogleTest.com.tests
             
             Logger.Step("2... Search for 'Selenium C# tutorial' and press 'Enter' keyboard button");
                 GoogleHomePage.SearchInputField.SendKeys("Selenium C# tutorial" + Keys.Enter);
-                // Assert.That(GoogleHomePage.SearchResult.Displayed, Is.True, "Result not found");
+                Assert.That(GoogleHomePage.SearchResult.Displayed, Is.True, "Result not found");
                 Assert.That(GoogleHomePage.ListOfResults.Count, Is.GreaterThan(0),
                     "No results found");
                 
