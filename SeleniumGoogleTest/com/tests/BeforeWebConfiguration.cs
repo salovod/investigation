@@ -10,8 +10,8 @@ namespace SeleniumGoogleTest.com.tests;
 public class BeforeWebConfiguration
 {
     
-    protected IWebDriver Driver;
-    protected GoogleHomePage GoogleHomePage;
+    protected IWebDriver Driver = null!;
+    protected GoogleHomePage GoogleHomePage = null!;
 
     [SetUp]
     public void Setup()
