@@ -7,9 +7,5 @@
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
   &lt;Assembly Path="/Users/work/.nuget/packages/selenium.webdriver/4.28.0/lib/net8.0/WebDriver.dll" /&gt;
 &lt;/AssemblyExplorer&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=68af1a61_002D8773_002D45b0_002D93c7_002D0251bab2eb9b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GoogleSearchTutorialTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::1EC0DE18-4013-411F-9B6E-6C9D82DED78B::net9.0::SeleniumGoogleTest.com.tests.GoogleTest.GoogleSearchTutorialTest&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
+	
 	</wpf:ResourceDictionary>
